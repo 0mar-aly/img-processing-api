@@ -36,4 +36,3 @@ The URL above outputs the file ```100x100santamonica.jpg``` to ```/images/resize
 - Express.js documentation
 - Node.js documentation
 - Sharp documentation
-- Udacity Classroom (Full Stack Web Development Nanodegree)
